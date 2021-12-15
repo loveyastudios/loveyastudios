@@ -6,7 +6,7 @@ baseurl: /loveyastudios # the subpath of your site, e.g. /blog/
 url: https://loveyastudios.github.io/ # the base hostname & protocol for your site
 
 twitter_username: loveyastudios
-tiktok_username: @loveyastudios
+tiktok_username: loveyastudios
 
 # Build settings
 markdown: kramdown
